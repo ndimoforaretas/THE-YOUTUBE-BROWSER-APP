@@ -4,8 +4,10 @@
 This App deals with:
 
 - Handling User events
-- Fetches Data from an exernal API (The YouTube Public free API)
+- Fetches Data from an external API (The YouTube Public free API)
 - How to show a list of records
+- How to play fetched videos
+- Embedding videos
 
 # HOW IT WORKS:
 
